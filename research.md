@@ -4,17 +4,7 @@ title: Research
 permalink: /research/
 ---
 
+My research broadly falls under the umbrella of "ultrafast spectroscopy and dynamics", where ultrashort (femtosecond) laser pulses are use to probe chemical structure and dynamics on their natural timescales. Developments in femtosecond laser technology over the last two decades mean that 'turn-key' femtosecond laser systems are now widely available. This means that the ability to generate and use ultrashort pulses to study atomic and molecular processes is no longer solely the preserve of specialist laser physicists, and scientists from a wide range of backgrounds are now able to set these systems up and use them to study all kinds of chemical and biological problems. 
 
-My research generally fits into three themes: (i) studying how ecological networks are affected by environmental and anthropogenic pressures, (ii) understanding the factors governing observed network structure, and (iii) developing new tools to analyse ecological networks.
+For most of my research so far I have focussed on gas-phase (or quasi-condensed-phase) structure and dynamics. This was the focus of my MChem, PhD, and first postdoc. However, most recently I have switched direction slightly and now am much more on the "spectroscopy" end of "spectroscopy and dynamics", working on sum-frequency generation (SFG) spectroscopy and sum-frequency scattering in Surflab with Tobias Weidner. Mostly here the femtosecond laser pulses are used purely for their broad spectral width, which is ideal for SFG spectroscopy, but time-resolved SFG is also possible. In this kind of spectroscopy, the selection rules dictate that only signal from non-centrosymmetric media (i.e. interfaces) can be generated, meaning that the technique is inherently surface sensitive. 
 
-### THE EFFECTS OF STRESSORS ON ECOLOGICAL NETWORKS
-
-I am interested in the effects of environmental and anthropogenic stressors – such as climate change, invasive species, pollution, and habitat loss and degradation – on the structure, dynamics and functioning of ecological networks. I am also interested in how network structure influences the robustness, resilience and stability of ecological networks. I tackle these questions using a variety of topological and dynamic network models which allow for realistic perturbations to be simulated, such as species extinctions or increased environmental fluctuations.
-
-### UNDERSTANDING THE PROCESSES GOVERNING NETWORK STRUCTURE
-
-I am interested in uncovering the factors influencing the observed structure of ecological networks. Not only does this provide insight into how communities assemble, but can also help predict the structure of novel communities under global changes.
-
-### NEW TOOLS TO ANALYSE ECOLOGICAL NETWORKS
-
-I develop new software tools to analyse ecological networks. Networks are structures that are very amenable to computational and mathematical analysis, and I create tools that enable new methods or reimplement existing methods in highly efficient ways. Further information about the tools I have developed can be found on the [software](/software) page.
