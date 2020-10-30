@@ -1,4 +1,4 @@
-Hello! My name is James is and I'm a physical chemist. This site primarily exists as a repository for various research/teaching related materials that I've made over the years. You've probably found it as you're a student/ex-student of mine and I sent you the link when you asked me for some lecture notes (or something). 
+Hello! My name is James and I'm a physical chemist. This site primarily exists as a repository for various research/teaching related materials that I've made over the years. You've probably found it as you're a student/ex-student of mine and I sent you the link when you asked me for some lecture notes (or something). 
 
 Currently, I work at Aarhus University in Surflab with Tobias Weidner, using ultrafast lasers to study structure and dynamics of various things at various different kinds of surfaces. I've previously worked with Michael Burt at the University of Oxford (postdoc), Henrik Stapelfeldt at Aarhus University (PhD), and Mark Brouard at the University of Oxford (MChem). 
 
