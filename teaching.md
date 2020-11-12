@@ -9,6 +9,9 @@ Over the years I have taught many courses in physical chemistry, physics, and ma
 
 #### Full Handouts/Courses
 
+### Ultrafast Optics: For Chemists
+
+
 ### Introductory Quantum Mechanics
 This is the <a href="../pdfs/introductory_quantum.pdf" target="_blank">handout </a>for a six lecture course designed for chemistry undergraduates meeting quantum mechanics for the first time. There is minimal assumed knowledge and it ends up providing a basic understanding of rotational and vibrational quantisation of simple molecules. It is kept quite qualitative, so there is minimal maths! There is also an associated <a href="../pdfs/problems.pdf" target="_blank">problem set</a> with <a href="../pdfs/solutions.pdf" target="_blank">solutions.</a>
 
