@@ -10,7 +10,7 @@ Over the years I have taught many courses in physical chemistry, physics, and ma
 #### Full Handouts/Courses
 
 ### Ultrafast Optics: For Chemists
-
+<a href="../pdfs/ultrafast_optics_for_chemists_v1-1.pdf" target="_blank"> This handout </a> grew whilst I was preparing to give a short talk to my research group about ultrafast optics and lasers. Many people entering ultrafast spectroscopy from different backgrounds (such as biology or chemistry, rather than physics) can find using and understanding the ultrafast laser systems quite confusing and daunting at first (I know this, as this described me when I started my PhD in 2015). Many books on this topic are undoubtedly rigorous and thorough, but also entirely inaccessible for somebody without a physics degree. This handout aims to bridge that gap, and is soon to be a fully fledged book - available nationwide in all good bookshops (probably).
 
 ### Introductory Quantum Mechanics
 This is the <a href="../pdfs/introductory_quantum.pdf" target="_blank">handout </a>for a six lecture course designed for chemistry undergraduates meeting quantum mechanics for the first time. There is minimal assumed knowledge and it ends up providing a basic understanding of rotational and vibrational quantisation of simple molecules. It is kept quite qualitative, so there is minimal maths! There is also an associated <a href="../pdfs/problems.pdf" target="_blank">problem set</a> with <a href="../pdfs/solutions.pdf" target="_blank">solutions.</a>
