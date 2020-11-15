@@ -23,6 +23,9 @@ This rather rambling and questionably complete <a href="../pdfs/vmi_simulation.p
 
 #### Short Explanatory Notes
 
+### Statistical Mechanics: The Background
+<a href="../pdfs/statmech.pdf" target="_blank">This note</a> walks through the background of statistical mechanics and tackles a simple problem of calculating the internal energy of a box of atoms starting just from quantum mechanical expressions for energy levels. Most confusion around stat mech seems to arise from people not understanding the point of it, or understanding why we care about partition functions so much. Hopefully this goes some way to remedying the situation.
+
 ### Nuclear Spin Statistics
 The influence of nuclear spin statistics on rotational spectra often seems confusing, and it can seem that there are a lot of formulae pulled out of the ether to help explain what we see. This <a href="../pdfs/spin_statistics.pdf" target="_blank">short note</a> aims to explain the influence of nuclear spin statistics by considering the effect of a rotation on the total wavefunction of a diatomic molecule. It assumes you're reasonably adept with typical undergraduate chemist level quantum mechanics!
 
