@@ -6,5 +6,6 @@ I have a long standing interest and passion for scientific education, and I've p
 
 Recently I have published a <a href="https://iopscience.iop.org/book/978-0-7503-3659-8"> short book about ultrafast lasers and optics </a> through IOP ebooks. The aim of the book is to serve as a primer for anyone who (like me) is entering a laser spectroscopy/dynamics group without any serious formal background in laser physics or optics. Many laser physics textbooks are very physics-y (and excellent for it), but do tend to start their opening chapters with sentences like: "consider an infinitely large cavity in a 3D k-space". This immediately turns off anyone with a background in chemistry or biology that may want to know more about the tools they are using day to day. This book aims to fill the gap so that a) people can get up to speed in the lab quickly, and b) those excellent laser physics textbooks become accesible. 
 
-There are probably still typos/errors in the book, so get in contact if you find any and I'll host an errata PDF here. You can contact me at pickering DOT jamesd AT gmail DOT com, or <a href="https://www.linkedin.com/in/james-d-pickering/" via Linkedin </a>.
+There are probably still typos/errors in the book, so get in contact if you find any and I'll host an errata PDF here. You can contact me at pickering DOT jamesd AT gmail DOT com, or <a href="https://www.linkedin.com/in/james-d-pickering/"> via Linkedin </a>.
 
+<img src="images/bookcover.jpg" alt="Over 1 Million Copies Sold">
