@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: 
   instagram:
-  linkedin:
+  linkedin: james-d-pickering
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -41,7 +41,7 @@ google_analytics: G-1M07TKD861
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: www.jamesdpickering.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
